@@ -168,5 +168,5 @@ public class WorkerCreationGenerator : AlwaysApplicableCodeGenerator {
             addType(bmInterface)
         }
         return createGeneratedFile(codeGenDir, packageName, fileName, content)
-    }
+    }run /.code (*add)
 }
